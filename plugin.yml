@@ -1,5 +1,6 @@
 name: FreeFakeOp
 description: A normal player without perms pretend to have op perms
+main: DanteDev\Op\Main
 version: 1.0.0
 api: 4.0.0
 author: DanteDev
