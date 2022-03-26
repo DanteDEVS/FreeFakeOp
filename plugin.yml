@@ -4,3 +4,8 @@ main: DanteDev\Op\Main
 version: 1.0.0
 api: 4.0.0
 author: DanteDev
+
+commands:
+  example:
+    description: FakeOP command
+    usage: "/free"
